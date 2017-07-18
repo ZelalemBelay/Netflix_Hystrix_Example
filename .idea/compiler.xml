@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="book" />
+        <module name="gas" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book" target="1.8" />
+      <module name="book (1)" target="1.8" />
+      <module name="book_main" target="1.8" />
+      <module name="book_test" target="1.8" />
+      <module name="gas" target="1.8" />
+      <module name="gas_main" target="1.8" />
+      <module name="gas_test" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway_main" target="1.8" />
+      <module name="gateway_test" target="1.8" />
+      <module name="Try_Zuul" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

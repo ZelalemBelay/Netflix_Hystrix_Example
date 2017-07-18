@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book/book_main.iml" filepath="$PROJECT_DIR$/.idea/modules/book/book_main.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book/book_test.iml" filepath="$PROJECT_DIR$/.idea/modules/book/book_test.iml" group="book" />
+      <module fileurl="file://$PROJECT_DIR$/Gas/gas.iml" filepath="$PROJECT_DIR$/Gas/gas.iml" group="gas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gas/gas_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Gas/gas_main.iml" group="gas" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gas/gas_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Gas/gas_test.iml" group="gas" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_main.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/gateway_test.iml" group="gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-routing-and-filtering.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-routing-and-filtering.iml" />
+    </modules>
+  </component>
+</project>
